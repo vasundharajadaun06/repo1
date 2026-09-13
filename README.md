@@ -1,6 +1,6 @@
 # Computer Vision Unit II Programming Assignment
 
-Name: Vasundhara Jadaun
+Name: Vasundhara Singh
 
 Enrollment Number: 2402309136
 
